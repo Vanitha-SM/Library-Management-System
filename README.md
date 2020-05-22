@@ -1,2 +1,2 @@
 # dbms-project
-LIbrary Management System
+A LIbrary Management System designed in Python using Tkinter.
