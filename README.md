@@ -1,5 +1,3 @@
-# DBMS-Project
-
 # Library-Management-System
 #### Using Python and MongoDB to built a system to handle the primary housekeeping functions of a library.
 <br/>
